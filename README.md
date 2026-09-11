@@ -52,6 +52,6 @@ https://serpapi.com/legal
 
 https://github.com/serpapi/public-roadmap/issues
 
-## Add a new issue
+## Add a new issue 
 
 https://github.com/serpapi/public-roadmap/issues/new
